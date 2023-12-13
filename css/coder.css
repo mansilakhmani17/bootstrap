@@ -1,0 +1,25 @@
+.first{
+    margin-top: 90px;
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+}
+.image{
+    height: 250px;
+    width: 270px;
+}
+
+.card-second{
+    margin-left: 4%;
+    margin-top: -15%;
+}
+.card-img-top{
+    height: 80%;
+    width: 70%;
+}
+.card-third{
+    margin-left: 75% ;
+    margin-top: -35% ;
+}

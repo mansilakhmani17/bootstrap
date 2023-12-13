@@ -1,0 +1,44 @@
+body{
+    background-color: navajowhite;
+}
+.container{
+    display: flex;
+}
+.card {
+    background:black;
+    width: 350px;
+    height: 50px;
+    margin: 10px;
+    border-radius: 15px 15px 0 0 ;
+}
+.card:hover {
+    color: red;
+}
+.card-image {
+    background-image: url(haul.jpg);
+    height: 150px;
+    margin-bottom: 15px;
+    background-size: cover;
+    border-radius: 15px 15px 0 0 ;
+
+
+}
+
+.college {
+    background-image: url(../assets/haul.jpg);
+}
+.outfits {
+    background-image: url(../assets/outfits.jpg);
+}
+.lifestyle {
+    background-image: url(../assets/lifestyle.jpg) ;
+}
+.card a
+ {
+    background-color: black;
+    color: white;
+    padding: 15px 20px ;
+    display: block;
+    text-align: center;
+    margin: 20px 50px;
+}

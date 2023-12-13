@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+body{
+    background-color: white;
+}
+.container{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+}
+.container h1{
+    padding: 5px 0;
+    color: white;
+    font-size: 12px;
+     height: 5px;
+     font-family: cursive;
+}
+.card{
+    display: flex;
+    margin: 10px;
+    margin-left: 20px;
+    padding: 5px;
+    justify-content: space-around;
+    border: double 2px black;
+    height: min-content;
+    word-spacing: 1px;
+    border-radius: 15px 15px 15px 15px ;
+
+}
+.content{
+    display: flex;
+    flex-direction: row;
+}
+.h1{
+    font-family: cursive;
+    background-color: white;
+
+}
+.body{
+    font-family: cursive;
+}
